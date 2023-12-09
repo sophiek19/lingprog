@@ -8,7 +8,7 @@ from src.services import Salary,CURRENCIES
 
 if __name__ == '__main__':
 
-    employee_1 = Programmer('FirstName', 'FirstSurname', 28, birth_date='2003:06:07', start_date='2022:01:10')
+    employee_1 = Programmer('MAX', 'FirstSurname', 28, birth_date='2003:06:07', start_date='2022:01:10')
     # employee_1_1 = FrontendEngineer('FirstName', 'FirstSurname', 28)
     # employee_1_2 = BackendEngineer('FirstName', 'FirstSurname', 29)
     # employee_1_3 = QAEngineer('FirstName', 'FirstSurname', 28)
